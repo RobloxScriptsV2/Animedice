@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/ZuC2WVzzHz/0"))()
+loadstring(game:HttpGet("https://codeberg.org/elysiummm/whatthehelly/raw/branch/main/visual/animedice_spawner"))()
